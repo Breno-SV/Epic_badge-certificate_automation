@@ -16,7 +16,14 @@ font_company_badge = ImageFont.truetype("Text_Fonts/Montserrat-Bold.ttf", 40)
 font_cert_name = ImageFont.truetype("Text_Fonts/GreatVibes-Regular.ttf", 160)
 font_cert_name_reduced = ImageFont.truetype("Text_Fonts/GreatVibes-Regular.ttf", 120)
 
-# Color black and teal (#09ABA3)
+#Font: Great Vibes - Size: 48
+#Color: Dark teal
+#Code: #09ABA3
+
+#red: 9
+#green: 171
+#blue: 163
+
 teal = (9, 171, 163)
 
 # Rules for "long name" handling
