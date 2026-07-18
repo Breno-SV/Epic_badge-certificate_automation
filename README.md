@@ -79,4 +79,4 @@ Generated files will be saved automatically in:
 
 ## 👨‍💻 Author
 
-Developed by **Breno Vieira** as part of the **EPIC Automation Technical Challenge**.
+Developed by **Breno Vieira** at **Boston Innovation Gateway (BIG)** as an automation solution for the **EPIC Executive Education Program**.
