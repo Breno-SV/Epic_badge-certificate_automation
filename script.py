@@ -48,4 +48,3 @@ for _, line in df.iterrows():
     )
     cert.save(f"Epic_Certificates/{certificate_name}", "PDF")
 
-
