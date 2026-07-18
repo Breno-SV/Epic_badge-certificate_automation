@@ -66,13 +66,13 @@ Generated files will be saved automatically in:
 ### Badge
 
 <p align="center">
-  <img src="Images/badge_preview.png" width="350">
+  <img src="Pictures\Prints_Automation\Badge_Otávio_Cunha.png" width="350">
 </p>
 
 ### Certificate
 
 <p align="center">
-  <img src="Images/certificate_preview.png" width="750">
+  <img src="Pictures\Prints_Automation\Certificate_Otávio_Cunha.pdf" width="750">
 </p>
 
 ---
