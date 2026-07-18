@@ -66,13 +66,13 @@ Generated files will be saved automatically in:
 ### Badge
 
 <p align="center">
-  <img src="Epic_Badges\Badge_Otávio_Cunha.png" width="350">
+  <img src="E.g_Preview/Badge_Otávio_Cunha.png" width="350">
 </p>
 
 ### Certificate
 
 <p align="center">
-  <img src="Epic_Certificates\Certificate_Otávio_Cunha.pdf" width="750">
+  <img src="E.g_Preview/Certificate_Otávio_Cunha.png" width="750">
 </p>
 
 ---
